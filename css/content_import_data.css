@@ -1,0 +1,48 @@
+#drop_zone {
+    background-color: white;
+    border: #337ab7 4px dashed;
+    padding: 4px;
+    font-size: 14px;
+    height: 201px;
+    text-align: center;
+}
+#drop_zone.is-dragged {
+    background-color: #EEE;
+}
+#drop_zone > img {
+    padding-top: 32px;
+    width: 86px;
+    pointer-events: none;
+}
+#drop_zone > p {
+    pointer-events: none;
+}
+
+#penjelasanSiswa, #penjelasanGuru, #penjelasanJadwal, #panelImport {
+    display: none;
+}
+
+#import {
+    height: 440px;
+    font-family: "courier new", courier, monospace;
+    font-size: 12px;
+}
+
+#fileInput {
+    width: 0px;
+    height: 0px;
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    vertical-align: top;
+}
+
+button {
+    outline: none !important;
+    box-shadow: none;
+}

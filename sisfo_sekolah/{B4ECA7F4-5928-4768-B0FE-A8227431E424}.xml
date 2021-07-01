@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2021/06/30" author="e.World Technology Ltd.">
+  <project id="{B4ECA7F4-5928-4768-B0FE-A8227431E424}" file="C:\Users\Rufus\Downloads\my_sisfo_sekolah.pmp" name="sisfo_sekolah" product="PHPMaker" version="13.0" datetime="2021/06/30 23:14:39" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="tahun" name="tahun" caption="TAHUN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="jadwal" name="jadwal" caption="PENJADWALAN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="kelas" name="kelas" caption="KELAS" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="khs" name="khs" caption="KELAS SISWA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="kurikulum" name="kurikulum" caption="KURIKULUM" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mk" name="mk" caption="MAPEL" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_agama" name="master_agama" caption="AGAMA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_bahasa" name="master_bahasa" caption="BAHASA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_darah" name="master_darah" caption="GOL. DARAH" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_golongan" name="master_golongan" caption="GOLONGAN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_hari" name="master_hari" caption="HARI" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_hidup" name="master_hidup" caption="HIDUP" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_jamkul" name="master_jamkul" caption="JAM JADWAL" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_jenjang" name="master_jenjang" caption="JENJANG" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_kampus" name="master_kampus" caption="KAMPUS" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_kelamin" name="master_kelamin" caption="KELAMIN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_pekerjaanortu" name="master_pekerjaanortu" caption="PEKERJAAN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_pendidikanortu" name="master_pendidikanortu" caption="PENDIDIKAN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_prodi" name="master_prodi" caption="PRODI" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_sesi" name="master_sesi" caption="SESI" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_statusawal" name="master_statusawal" caption="STATUS AWAL" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_statuskerja" name="master_statuskerja" caption="STATUS KERJA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_benua" name="master_wilayah_benua" caption="BENUA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_desa" name="master_wilayah_desa" caption="DESA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_kabupatenkota" name="master_wilayah_kabupatenkota" caption="KABUPATEN/KOTA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_kecamatan" name="master_wilayah_kecamatan" caption="KECAMATAN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_negara" name="master_wilayah_negara" caption="NEGARA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_wilayah_provinsi" name="master_wilayah_provinsi" caption="PROVINSI" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_bagian" name="master_bagian" caption="UNIT KERJA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_ikatan" name="master_ikatan" caption="IKATAN KERJA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="statuslulus" name="statuslulus" caption="STATUS LULUS" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_statussipil" name="master_statussipil" caption="STATUS SIPIL" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_statusstudent" name="master_statusstudent" caption="STATUS SISWA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="master_statusteacher" name="master_statusteacher" caption="STATUS GURU" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="student" name="student" caption="SISWA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="home_php" name="home.php" caption="DASHBOARD" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="users" name="users" caption="USERS" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="staff" name="staff" caption="STAFF" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="teacher" name="teacher" caption="GURU" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="audittrail" name="audittrail" caption="LOGS" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="sync_elearning_php" name="sync_elearning.php" caption="SINKRONISASI JADWAL" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevels" name="userlevels" caption="userlevels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="import_data_php" name="import_data.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="naik_kelas_php" name="naik_kelas.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
